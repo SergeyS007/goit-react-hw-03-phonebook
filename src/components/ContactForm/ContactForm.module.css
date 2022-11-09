@@ -1,0 +1,20 @@
+.form {
+  width: 300px;
+  outline: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.label {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.form_button {
+  width: 90px;
+}
+.form_input:hover,
+.form_input:focus {
+  border: 2px solid rgb(41, 41, 240);
+}

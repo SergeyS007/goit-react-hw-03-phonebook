@@ -1,0 +1,12 @@
+.contacts {
+    width: 300px;
+}
+.contactsItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contactsName {
+    margin-right: 20px;
+}
